@@ -3,7 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 title: FireO
 description: A modern and simplest convenient ORM package in Python. FireO is specifically designed for the Google's Firestore
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://octabyte.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fireo.octabyte.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Logo
 logo: "/fireo_logo.png"
@@ -20,4 +20,4 @@ aux_links:
     - "//github.com/octabytes/FireO/tree/gh-pages"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2019 <a href=\"https://github.com/octabytes/FireO\">FireO</a> All rights reserved. Powered by <a href=\"https://octabyte.io\">OctaByte</a> <span style='float:right'><a target='_blank' href='http://bit.ly/FireO-Paypal'>Sponsor FireO</a></span>"
+footer_content: "Copyright &copy; 2019 <a href=\"https://github.com/octabytes/FireO\">FireO</a> All rights reserved. Powered by <a href=\"https://octabyte.io\">OctaByte</a>"
